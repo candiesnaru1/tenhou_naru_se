@@ -1,0 +1,25 @@
+{
+  "ver":1.0,
+  "se":{
+    "1":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_start.mp3"},
+    "3":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_clock.mp3"},
+    "6":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_da.mp3"},
+    "8":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_naki.mp3"},
+    "10":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_agari.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_yaku.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Pon.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Kan.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Chi.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Chi.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Riichi.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Riichi.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Ron.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Tsumo.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou_naru_se/main/Tsumo.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_start.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_yakuman.mp3"}
+  }
+}
